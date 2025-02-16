@@ -30,4 +30,4 @@ num = int(input("introduzca un numero a buscar: "))
 for itm in listacompleta: 
     if itm == num: 
       print("El numero se encontraba en la posicion ", listacompleta.index(itm))
-      break 
+      print("Fin del programa")
